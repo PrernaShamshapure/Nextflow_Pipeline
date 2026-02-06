@@ -16,8 +16,6 @@ A modular Nextflow pipeline for processing sequencing data, from raw FASTQ files
 - [Pipeline Modules](#pipeline-modules)
 - [Output](#output)
 - [Git Operations](#git-operations)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
