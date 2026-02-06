@@ -1,0 +1,14 @@
+name: nextflowpipeline
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  - fastqc
+  - multiqc
+  - trimmomatic
+  - bwa
+  - samtools
+  - bcftools
+  - openjdk
